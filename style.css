@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, #3a3a3a,#3a003a);
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: transparent;
+    box-shadow: 0px 3px 20px rgba(113,115,119,0.5);
+}
